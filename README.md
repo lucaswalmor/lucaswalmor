@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-						         👋 Olá, Seja bem vindo !
+						         👋 Olá, Seja bem vindo ao meu perfil!
 						         👋 Hello, Welcome to my profile!
 
   ![enter image description here](https://i.ibb.co/gyFx2qv/1.jpg)
