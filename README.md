@@ -42,13 +42,13 @@ Welcome to my profile!
 My name is Lucas Steinbach
 I'm full stack developer JR
 
-** What is programming for me? **
+**What is programming for me?**
 
 Programming for me is having the possibility to create applications that can be used by third parties and that is something that catches me a lot, I am moved by an energy of hope that believes that something useful has been disseminated to the world. technology I feel capable of doing much more.
 
 Being a programmer means challenging myself daily and adapting to new possibilities and that is motivating, after all programming is the gateway to the future and the future is a great challenge.
 
-** What do I aim for? **
+**What do I aim for?**
 
 Like any professional, I am no different, I work and study continuously in order to become a great developer and succeed in my professional career, always seeking to evolve.
 
