@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                            # Lucas Steinbach!
+						         👋 Olá, Seja bem vindo !
+						         👋 Hello, Welcome to my profile!
 
-![enter image description here](https://i.ibb.co/gyFx2qv/1.jpg)
+  ![enter image description here](https://i.ibb.co/gyFx2qv/1.jpg)
 
 
 > pt-BR
 
-Bem vindo ao meu perfil !
 Meu nome e Lucas Steinbach
 Sou desenvolvedor full stack JR
 
