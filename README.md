@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 Meu nome e Lucas Steinbach
 Sou desenvolvedor full stack JR
+Conhecimentos: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks ( laravel, jquery )
 
 **O Que a programação é para mim ?**
 
@@ -41,6 +42,7 @@ Como todo profissional, eu não sou diferente, trabalho e estudo continuamente c
 Welcome to my profile!
 My name is Lucas Steinbach
 I'm full stack developer JR
+Knowledge: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks (laravel, jquery)
 
 **What is programming for me?**
 
