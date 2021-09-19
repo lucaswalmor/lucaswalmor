@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > pt-BR
 
-Meu nome e Lucas Steinbach
+Meu nome e Lucas Steinbach <br>
 Sou desenvolvedor full stack JR <br>
 Conhecimentos: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks ( laravel, jquery ) <br>
 
@@ -39,10 +39,10 @@ Como todo profissional, eu não sou diferente, trabalho e estudo continuamente c
 
 > EN
 
-Welcome to my profile!
-My name is Lucas Steinbach
-I'm full stack developer JR
-Knowledge: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks (laravel, jquery)
+Welcome to my profile! <br>
+My name is Lucas Steinbach <br>
+I'm full stack developer JR <br>
+Knowledge: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks (laravel, jquery) <br>
 
 **What is programming for me?**
 
