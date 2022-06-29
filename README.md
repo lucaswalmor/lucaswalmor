@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Meu nome e Lucas Steinbach <br>
 Sou desenvolvedor full stack JR <br>
-Conhecimentos: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks ( laravel, jquery ), VueJS. VUETIFY <br>
+Conhecimentos: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks ( laravel, jquery ), VueJS, VUETIFY <br>
 
 **O Que a programação é para mim ?**
 
