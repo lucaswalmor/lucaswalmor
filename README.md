@@ -1,56 +1,66 @@
-<!--### Hi there 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Lucas Steinbach — Desenvolvedor Full Stack. PHP, Laravel e Vue.js." width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-steinbach-1a602915a/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Steinbach-0A66C2?style=flat-square" alt="LinkedIn de Lucas Steinbach" /></a>
+  <a href="https://lksoftware.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-LK%20Software-0F766E?style=flat-square" alt="Portfólio LK Software" /></a>
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Uberl%C3%A2ndia%20%2F%20MG-334155?style=flat-square" alt="Uberlândia, Minas Gerais, Brasil" />
+</p>
 
-**lucaswalmor/lucaswalmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, sou o Lucas
 
-Here are some ideas to get you started:
+Desenvolvedor Full Stack com **6 anos de experiência**, com foco em **PHP, Laravel, Vue.js e JavaScript**. Desenvolvo sistemas SaaS, aplicações corporativas e APIs REST, atuando do backend e frontend à infraestrutura e ao deploy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de transformar regras de negócio em produtos úteis: automatizar processos, integrar serviços e construir aplicações que resolvam problemas reais.
 
-						         👋 Olá, Seja bem vindo ao meu perfil!
-						         👋 Hello, Welcome to my profile!
+- **Backend:** APIs, autenticação, permissões, filas, tarefas agendadas e webhooks.
+- **Integrações:** pagamentos, assinaturas, WhatsApp, calendários e serviços de IA.
+- **Produtos:** gestão clínica, comunidades, marketplaces e aplicativos mobile.
+- **Objetivo profissional:** oportunidades em desenvolvimento Full Stack ou Backend PHP/Laravel.
 
-  ![enter image description here](https://i.ibb.co/gyFx2qv/1.jpg)
+## Tecnologias
 
+| Área | Ferramentas com que trabalho |
+| --- | --- |
+| Backend | PHP · Laravel · Node.js · APIs REST · Sanctum |
+| Frontend | Vue.js · JavaScript · TypeScript · React · Angular · Tailwind CSS |
+| Mobile e desktop | React Native · Expo · Python · PySide6 |
+| Dados e infraestrutura | MySQL · PostgreSQL · SQLite · Docker · Git · Vercel · Easypanel |
+| Qualidade e integrações | PHPUnit · pytest · Vitest · Webhooks · OpenAI · Gemini · Groq |
 
-> pt-BR
+## Projetos em destaque
 
-Meu nome e Lucas Steinbach <br>
-Sou desenvolvedor full stack JR <br>
-Conhecimentos: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks ( laravel, jquery ), VueJS, VUETIFY <br>
+Uma seleção de produtos e projetos pessoais. Alguns repositórios são privados; nesses casos, os links levam à apresentação ou à aplicação.
 
-**O Que a programação é para mim ?**
+| Projeto | O que desenvolvi | Conheça |
+| --- | --- | --- |
+| **PsicoProntuários** | SaaS para psicólogos com prontuários, agenda, financeiro, automações e recursos de IA. | [Site e demonstração](https://psicoprontuarios.com.br/) |
+| **MotoConexão** | Aplicativo com React Native, Expo e Laravel: rede social para motociclistas, registro de rotas e GPS em segundo plano. | [Google Play](https://play.google.com/store/apps/details?id=com.lucassteinbach.MotoConexao) · [Backend](https://github.com/lucaswalmor/motoconexao_backend) |
+| **Vincly** | Projeto pessoal de SaaS para gestão e monetização de comunidades, com checkout, assinaturas e automações. | [Apresentação](https://vincly-automation.vercel.app/) · [Sistema](https://app-vincly.vercel.app/) |
+| **Nexial Hub Pagamentos** | Projeto pessoal de API de integração com gateways, com Asaas, autenticação por API Keys e documentação interativa. | [Aplicação](https://lucas-api-pagamento.irkqjy.easypanel.host/) · [Documentação](https://lucas-api-pagamento.irkqjy.easypanel.host/docs) |
+| **PetGre** | Plataforma para o mercado pet com catálogo, pedidos, painel do lojista e integrações com WhatsApp. | [Backend](https://github.com/lucaswalmor/petgre-backend) · [Frontend](https://github.com/lucaswalmor/petgre-cliente) |
+| **DevLingo** | Aplicativo desktop em Python para transcrição e tradução de conversas técnicas e prática de entrevistas em inglês. | [Código e documentação](https://github.com/lucaswalmor/devlingo) |
 
-Programação para mim é ter a possibilidade de criar aplicações que possam ser aproveitadas por terceiros e isso é algo que me contagia bastante, sou movido por uma energia de esperança que acredita que se fizemos algo de útil para o mundo estamos cultivando um mundo melhor e através da tecnologia eu me sinto capaz de fazer muito mais.
+## Como trabalho
 
-Ser programador é desafiar-me diariamente e me adaptar a novas possibilidades e isso é motivador, afinal programação é a porta de entrada para o futuro e o futuro é um grande desafio.
+Priorizo responsabilidades claras, regras de negócio bem definidas, documentação e testes nos fluxos importantes. Uso IA como apoio ao desenvolvimento, com revisão das alterações e validação do comportamento da aplicação.
 
-**O que almejo?**
+## Vamos conversar?
 
-Como todo profissional, eu não sou diferente, trabalho e estudo continuamente com o intuito de me tornar um grande desenvolvedor e ter sucesso em minha carreira profissional, buscando sempre evoluir. 
+Estou em **Uberlândia/MG**, com disponibilidade para trabalho remoto, híbrido ou presencial e possibilidade de mudança.
 
-> EN
+**[Fale comigo no LinkedIn](https://www.linkedin.com/in/lucas-steinbach-1a602915a/)** · **[Veja meu portfólio](https://lksoftware.vercel.app/)**
 
-Welcome to my profile! <br>
-My name is Lucas Steinbach <br>
-I'm full stack developer JR <br>
-Knowledge: PHP, JAVASCRIPT, MYSQL, CSS, Frameworks (laravel, jquery) <br>
+<details>
+<summary><strong>English overview</strong></summary>
 
-**What is programming for me?**
+Full Stack Developer with 6 years of experience, focused on PHP, Laravel, Vue.js and JavaScript. I build SaaS products, REST APIs, business applications and integrations, from backend and frontend development to deployment.
 
-Programming for me is having the possibility to create applications that can be used by third parties and that is something that catches me a lot, I am moved by an energy of hope that believes that something useful has been disseminated to the world. technology I feel capable of doing much more.
+My projects include healthcare software, a motorcycle community app, payment integrations and desktop tools powered by AI. I work with authentication, queues, scheduled jobs, webhooks and automated tests.
 
-Being a programmer means challenging myself daily and adapting to new possibilities and that is motivating, after all programming is the gateway to the future and the future is a great challenge.
+Based in Uberlândia, Brazil. Open to Full Stack and PHP/Laravel Backend opportunities.
 
-**What do I aim for?**
+[LinkedIn](https://www.linkedin.com/in/lucas-steinbach-1a602915a/) · [Portfolio](https://lksoftware.vercel.app/)
 
-Like any professional, I am no different, I work and study continuously in order to become a great developer and succeed in my professional career, always seeking to evolve.
-
+</details>
